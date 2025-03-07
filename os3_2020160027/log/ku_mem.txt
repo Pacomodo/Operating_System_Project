@@ -1,0 +1,1207 @@
+Experiment_1_log
+
+Memory check for PID: 8552
+Physical Memory current: 269040 kB
+Virtual Memory current: 3020752 kB
+Shared Memory current: 5732 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269040 kB
+Virtual Memory current: 3020752 kB
+Shared Memory current: 5732 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269040 kB
+Virtual Memory current: 3020752 kB
+Shared Memory current: 5732 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269040 kB
+Virtual Memory current: 3020752 kB
+Shared Memory current: 5732 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269060 kB
+Virtual Memory current: 3020736 kB
+Shared Memory current: 5732 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269060 kB
+Virtual Memory current: 3020720 kB
+Shared Memory current: 5732 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269316 kB
+Virtual Memory current: 3020292 kB
+Shared Memory current: 5448 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269996 kB
+Virtual Memory current: 3020292 kB
+Shared Memory current: 5448 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 269996 kB
+Virtual Memory current: 3020292 kB
+Shared Memory current: 5448 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 270004 kB
+Virtual Memory current: 3020292 kB
+Shared Memory current: 5448 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 272204 kB
+Virtual Memory current: 3020380 kB
+Shared Memory current: 5452 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 272768 kB
+Virtual Memory current: 3020432 kB
+Shared Memory current: 5468 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 279272 kB
+Virtual Memory current: 3059192 kB
+Shared Memory current: 5492 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 280320 kB
+Virtual Memory current: 3059192 kB
+Shared Memory current: 5492 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 280320 kB
+Virtual Memory current: 3059192 kB
+Shared Memory current: 5492 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 281128 kB
+Virtual Memory current: 3059216 kB
+Shared Memory current: 5492 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 281128 kB
+Virtual Memory current: 3059216 kB
+Shared Memory current: 5492 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 279312 kB
+Virtual Memory current: 3059172 kB
+Shared Memory current: 5492 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 277324 kB
+Virtual Memory current: 3059200 kB
+Shared Memory current: 5504 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 278124 kB
+Virtual Memory current: 3058192 kB
+Shared Memory current: 5504 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 278988 kB
+Virtual Memory current: 3058192 kB
+Shared Memory current: 5504 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 280304 kB
+Virtual Memory current: 3058272 kB
+Shared Memory current: 5504 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 285204 kB
+Virtual Memory current: 3076088 kB
+Shared Memory current: 5524 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 288616 kB
+Virtual Memory current: 3107776 kB
+Shared Memory current: 5536 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 288248 kB
+Virtual Memory current: 3114452 kB
+Shared Memory current: 5536 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 290124 kB
+Virtual Memory current: 3148988 kB
+Shared Memory current: 5584 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 290288 kB
+Virtual Memory current: 3154720 kB
+Shared Memory current: 5584 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 291456 kB
+Virtual Memory current: 3156596 kB
+Shared Memory current: 5584 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 290980 kB
+Virtual Memory current: 3157848 kB
+Shared Memory current: 5584 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 291528 kB
+Virtual Memory current: 3157848 kB
+Shared Memory current: 5584 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 291644 kB
+Virtual Memory current: 3161864 kB
+Shared Memory current: 5656 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 291916 kB
+Virtual Memory current: 3162220 kB
+Shared Memory current: 5656 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 292640 kB
+Virtual Memory current: 3162204 kB
+Shared Memory current: 5656 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 294740 kB
+Virtual Memory current: 3162220 kB
+Shared Memory current: 5760 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 295668 kB
+Virtual Memory current: 3162252 kB
+Shared Memory current: 5760 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 295852 kB
+Virtual Memory current: 3163456 kB
+Shared Memory current: 5760 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 293796 kB
+Virtual Memory current: 3163456 kB
+Shared Memory current: 5764 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 294576 kB
+Virtual Memory current: 3163104 kB
+Shared Memory current: 5660 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 294232 kB
+Virtual Memory current: 3163104 kB
+Shared Memory current: 5660 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 294344 kB
+Virtual Memory current: 3163104 kB
+Shared Memory current: 5660 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 294344 kB
+Virtual Memory current: 3163104 kB
+Shared Memory current: 5660 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 294344 kB
+Virtual Memory current: 3163104 kB
+Shared Memory current: 5660 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 298428 kB
+Virtual Memory current: 3168036 kB
+Shared Memory current: 6540 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 298468 kB
+Virtual Memory current: 3171108 kB
+Shared Memory current: 6540 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 298468 kB
+Virtual Memory current: 3171108 kB
+Shared Memory current: 6540 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 298468 kB
+Virtual Memory current: 3172984 kB
+Shared Memory current: 6540 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 298468 kB
+Virtual Memory current: 3172984 kB
+Shared Memory current: 6540 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 298444 kB
+Virtual Memory current: 3172984 kB
+Shared Memory current: 6540 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 303932 kB
+Virtual Memory current: 3176056 kB
+Shared Memory current: 8548 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 303932 kB
+Virtual Memory current: 3176056 kB
+Shared Memory current: 8548 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 304764 kB
+Virtual Memory current: 3176056 kB
+Shared Memory current: 9380 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 304776 kB
+Virtual Memory current: 3193464 kB
+Shared Memory current: 9380 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 305244 kB
+Virtual Memory current: 3198552 kB
+Shared Memory current: 9380 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 324052 kB
+Virtual Memory current: 3215960 kB
+Shared Memory current: 9380 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329520 kB
+Virtual Memory current: 3215960 kB
+Shared Memory current: 10212 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329604 kB
+Virtual Memory current: 3215960 kB
+Shared Memory current: 10212 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329928 kB
+Virtual Memory current: 3215960 kB
+Shared Memory current: 10212 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 331228 kB
+Virtual Memory current: 3215944 kB
+Shared Memory current: 11044 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 332260 kB
+Virtual Memory current: 3215944 kB
+Shared Memory current: 11044 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329832 kB
+Virtual Memory current: 3215896 kB
+Shared Memory current: 11044 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329920 kB
+Virtual Memory current: 3215684 kB
+Shared Memory current: 10652 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329292 kB
+Virtual Memory current: 3215684 kB
+Shared Memory current: 10652 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329680 kB
+Virtual Memory current: 3215684 kB
+Shared Memory current: 10652 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 330056 kB
+Virtual Memory current: 3215684 kB
+Shared Memory current: 10652 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 329500 kB
+Virtual Memory current: 3219696 kB
+Shared Memory current: 10652 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 330900 kB
+Virtual Memory current: 3219824 kB
+Shared Memory current: 10980 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 331168 kB
+Virtual Memory current: 3219680 kB
+Shared Memory current: 10832 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 333024 kB
+Virtual Memory current: 3219696 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 332076 kB
+Virtual Memory current: 3220048 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 335264 kB
+Virtual Memory current: 3220048 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 332704 kB
+Virtual Memory current: 3220048 kB
+Shared Memory current: 11016 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 333144 kB
+Virtual Memory current: 3220032 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 332504 kB
+Virtual Memory current: 3220048 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 332492 kB
+Virtual Memory current: 3220048 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337736 kB
+Virtual Memory current: 3258116 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337952 kB
+Virtual Memory current: 3259732 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337956 kB
+Virtual Memory current: 3259732 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338172 kB
+Virtual Memory current: 3259732 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338192 kB
+Virtual Memory current: 3259732 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337724 kB
+Virtual Memory current: 3259732 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337752 kB
+Virtual Memory current: 3259380 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337752 kB
+Virtual Memory current: 3259380 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337756 kB
+Virtual Memory current: 3259380 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337768 kB
+Virtual Memory current: 3259380 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337532 kB
+Virtual Memory current: 3268596 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337488 kB
+Virtual Memory current: 3268596 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337488 kB
+Virtual Memory current: 3268596 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337492 kB
+Virtual Memory current: 3268596 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337492 kB
+Virtual Memory current: 3268596 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337508 kB
+Virtual Memory current: 3268596 kB
+Shared Memory current: 10960 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337880 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 10980 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338080 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 10992 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338144 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 10992 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338144 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 10992 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337744 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 10992 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338032 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338136 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338140 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338140 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338140 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338140 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337688 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337688 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337692 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337376 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11000 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 338120 kB
+Virtual Memory current: 3270900 kB
+Shared Memory current: 11004 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 339312 kB
+Virtual Memory current: 3270840 kB
+Shared Memory current: 10996 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 337264 kB
+Virtual Memory current: 3231204 kB
+Shared Memory current: 11008 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 339452 kB
+Virtual Memory current: 3234276 kB
+Shared Memory current: 11008 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 340380 kB
+Virtual Memory current: 3234292 kB
+Shared Memory current: 11008 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342088 kB
+Virtual Memory current: 3243804 kB
+Shared Memory current: 14016 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342000 kB
+Virtual Memory current: 3243804 kB
+Shared Memory current: 15872 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342080 kB
+Virtual Memory current: 3245584 kB
+Shared Memory current: 15872 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342476 kB
+Virtual Memory current: 3245368 kB
+Shared Memory current: 16432 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342744 kB
+Virtual Memory current: 3251132 kB
+Shared Memory current: 16432 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 341428 kB
+Virtual Memory current: 3251132 kB
+Shared Memory current: 16432 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 341592 kB
+Virtual Memory current: 3255140 kB
+Shared Memory current: 16432 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 341312 kB
+Virtual Memory current: 3255272 kB
+Shared Memory current: 16684 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342072 kB
+Virtual Memory current: 3255476 kB
+Shared Memory current: 16568 kB
+------------------------------------
+Memory check for PID: 8552
+Physical Memory current: 342404 kB
+Virtual Memory current: 3255524 kB
+Shared Memory current: 16568 kB
+------------------------------------
+
+
+Experiment_2_log
+
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1359540 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 98068 kB
+Virtual Memory current: 1433272 kB
+Shared Memory current: 528 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 100932 kB
+Virtual Memory current: 1453012 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101160 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101228 kB
+Virtual Memory current: 1453288 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101316 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101324 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101324 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 784 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 101320 kB
+Virtual Memory current: 1527020 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 103576 kB
+Virtual Memory current: 1814600 kB
+Shared Memory current: 780 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 157804 kB
+Virtual Memory current: 2313180 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 193148 kB
+Virtual Memory current: 2354736 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 193992 kB
+Virtual Memory current: 2355508 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 199844 kB
+Virtual Memory current: 2361760 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 200900 kB
+Virtual Memory current: 2362912 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 194148 kB
+Virtual Memory current: 2355484 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 197784 kB
+Virtual Memory current: 2359060 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 200684 kB
+Virtual Memory current: 2361424 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 201212 kB
+Virtual Memory current: 2361424 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 201740 kB
+Virtual Memory current: 2361828 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 201940 kB
+Virtual Memory current: 2361828 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 202996 kB
+Virtual Memory current: 2362976 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 202748 kB
+Virtual Memory current: 2362572 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203272 kB
+Virtual Memory current: 2362976 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203272 kB
+Virtual Memory current: 2362976 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203272 kB
+Virtual Memory current: 2362976 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203272 kB
+Virtual Memory current: 2362976 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203068 kB
+Virtual Memory current: 2362896 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 204388 kB
+Virtual Memory current: 2364108 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203756 kB
+Virtual Memory current: 2363300 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206152 kB
+Virtual Memory current: 2365696 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206680 kB
+Virtual Memory current: 2366104 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206116 kB
+Virtual Memory current: 2365632 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205776 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206028 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206028 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206820 kB
+Virtual Memory current: 2366036 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205796 kB
+Virtual Memory current: 2365224 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206324 kB
+Virtual Memory current: 2365632 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203700 kB
+Virtual Memory current: 2362932 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203716 kB
+Virtual Memory current: 2362932 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203732 kB
+Virtual Memory current: 2362932 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 207200 kB
+Virtual Memory current: 2366508 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 207200 kB
+Virtual Memory current: 2366508 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203236 kB
+Virtual Memory current: 2362524 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205612 kB
+Virtual Memory current: 2364888 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205612 kB
+Virtual Memory current: 2364888 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206404 kB
+Virtual Memory current: 2365696 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205720 kB
+Virtual Memory current: 2364888 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205720 kB
+Virtual Memory current: 2364888 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205720 kB
+Virtual Memory current: 2364888 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205656 kB
+Virtual Memory current: 2364888 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 207240 kB
+Virtual Memory current: 2366440 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203576 kB
+Virtual Memory current: 2362932 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205952 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205952 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 202908 kB
+Virtual Memory current: 2362120 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206076 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203716 kB
+Virtual Memory current: 2362932 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206092 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206092 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206092 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206092 kB
+Virtual Memory current: 2365292 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206884 kB
+Virtual Memory current: 2366036 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 203604 kB
+Virtual Memory current: 2362864 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 205048 kB
+Virtual Memory current: 2364416 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206632 kB
+Virtual Memory current: 2365968 kB
+Shared Memory current: 2508 kB
+------------------------------------
+Memory check for PID: 9230
+Physical Memory current: 206608 kB
+Virtual Memory current: 2365968 kB
+Shared Memory current: 2508 kB
+------------------------------------
+

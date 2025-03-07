@@ -1,0 +1,15 @@
+Process A: I will use CPU for 7s.
+
+Process B: I will use CPU for 5s.
+
+Process C: I will use CPU for 3s.
+
+Process D: I will use CPU for 1s.
+
+Process A: Finish! My response time is 0.0s and My total wait time is 0.0s.
+
+Process B: Finish! My response time is 6.1s and My total wait time is 6.1s.
+
+Process C: Finish! My response time is 10.2s and My total wait time is 10.2s.
+
+Process D: Finish! My response time is 12.3s and My total wait time is 12.3s.
